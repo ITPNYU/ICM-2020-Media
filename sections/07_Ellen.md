@@ -1,7 +1,7 @@
 ## Information
 
 * Ellen Nickles
-* Time: Mondays 8-10:30AM EST
+* Time: Mondays 8-10:30PM EST
 * Location:
 * [Homework Wiki]()
 * [Office Hours]()
