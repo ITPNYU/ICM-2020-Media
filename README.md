@@ -12,13 +12,13 @@ The following is an overview of how we will be spending class time over the next
 * 7 -- Final Project Presentations
 
 ## Section Info
-* [John-Henry](sections/01_JohnHenry.md) | [Homework]
-* [Luisa](sections/02_Luisa.md) | [Homework]
-* [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
-* [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
-* [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
-* [Lisa](sections/06_Lisa.md) | [Homework]
-* [Ellen](sections/07_Ellen.md) | [Homework]
+* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework]
+* 02 [Luisa](sections/02_Luisa.md) | [Homework]
+* 03 [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
+* 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
+* 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
+* 06 [Lisa](sections/06_Lisa.md) | [Homework]
+* 07 [Ellen](sections/07_Ellen.md) | [Homework]
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
@@ -38,7 +38,7 @@ The following is an overview of how we will be spending class time over the next
 
 ## Class Meetings Fall 2020
 
-The class meetings for Fall 2020 will be held over teleconference, at the scheduled class times. Should conditions allow, instructors will make their own arrangements for outside-of-class-meeting activities on the ITP floor at 370 Jay St., such as office hours, project reviews, or whatever is deemed safe and appropriate.
+The class meetings for Fall 2020 will be held over teleconference, at the scheduled class times. Should conditions allow, instructors will make their own arrangements for outside-of-class-meeting activities on the ITP floor at 370 Jay St., such as office hours, review sessions, or whatever is deemed safe and appropriate.
 
 Although a considerable amount of the class material is available online, you should attend the class meetings whenever possible. This class is a workshop and seminar, not a lecture class. It relies heavily on group discussion and participation in class time. If you cannot attend at the class time, please talk to your instructor or advisor in advance to figure out an alternative plan. We will do everything we can to accommodate students, but we need to know in advance in order to do so.
 
