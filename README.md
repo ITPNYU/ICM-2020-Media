@@ -27,7 +27,7 @@ The following is an overview of how we will be spending class time over the next
 - The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## Extra Help
-- [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
+- [Research Resident Office Hours](https://itp.nyu.edu/help/in-person-help/office-hours/)
 - ICM Help Sessions: TBD
 - [Coding Lab](https://itp.nyu.edu/help/in-person-help/coding-lab/) for drop-in help
 
