@@ -2,6 +2,7 @@
 Syllabus for ITP Foundation Course Introduction to Computational Media: Media
 
 ## Syllabus Overview
+The following is an overview of how we will be spending class time over the next 7 weeks. The specifics of what you cover will be determined week to week by your instructor. The material you are responsible for will be detailed on the Homework page (see links below.) for each section.
 * 1 -- [Pixels](weeks/01_pixels.md)
 * 2 -- [Pixels](weeks/02_pixels.md)
 * 3 -- [Sound](weeks/03_sound.md)
@@ -34,6 +35,12 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Media
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2020-Code/wiki/Inspiration)
 
 # Policies
+
+## Class Meetings Fall 2020
+
+The class meetings for Fall 2020 will be held over teleconference, at the scheduled class times. Should conditions allow, instructors will make their own arrangements for outside-of-class-meeting activities on the ITP floor at 370 Jay St., such as office hours, project reviews, or whatever is deemed safe and appropriate.
+
+Although a considerable amount of the class material is available online, you should attend the class meetings whenever possible. This class is a workshop and seminar, not a lecture class. It relies heavily on group discussion and participation in class time. If you cannot attend at the class time, please talk to your instructor or advisor in advance to figure out an alternative plan. We will do everything we can to accommodate students, but we need to know in advance in order to do so.
 
 ## Evaluation
 
