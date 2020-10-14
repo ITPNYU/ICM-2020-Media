@@ -18,7 +18,7 @@ The following is an overview of how we will be spending class time over the next
 * 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
 * 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
 * 06 [Lisa](sections/06_Lisa.md) | [Homework]
-* 07 [Ellen](sections/07_Ellen.md) | [Homework]
+* 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Media/wiki/Homework-Ellen)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
