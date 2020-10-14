@@ -1,10 +1,10 @@
 ## Information
 
-* Ellen Nickles
-* Time: Mondays 8-10:30PM EST
-* Location:
-* [Homework Wiki]()
-* [Office Hours]()
+* Ellen Nickles ellen.nickles@nyu.edu
+* Time: Mondays 8:00PM - 10:30PM EST
+* Location: Zoom
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2020-Media/wiki/Homework-Ellen)
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)
 
 ## Dates
 
