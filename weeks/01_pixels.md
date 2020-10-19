@@ -9,7 +9,7 @@ Why are we interested in computing media?
 *Some of the videos in this section were created 2-3 years ago. They use different editors for p5.js. All of the concepts should still apply?*
 
 ### Question
-Can computers be a more impartial judge of beauty?
+What can we express through algorithms?
 
 ### Video Tutorials
 #### Basics
