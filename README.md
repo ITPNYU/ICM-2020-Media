@@ -1,37 +1,45 @@
 # ICM-2020-Media
+
 Syllabus for ITP Foundation Course Introduction to Computational Media: Media
 
 ## Syllabus Overview
+
 The following is an overview of how we will be spending class time over the next 7 weeks. The specifics of what you cover will be determined week to week by your instructor. The material you are responsible for will be detailed on the Homework page (see links below.) for each section.
-* 1 -- [Pixels](weeks/01_pixels.md)
-* 2 -- [Pixels](weeks/02_pixels.md)
-* 3 -- [Sound](weeks/03_sound.md)
-* 4 -- [Sound](weeks/04_sound.md)
-* 5 -- [Text](weeks/05_text.md)
-* 6 -- [Data](weeks/06_data.md)
-* 7 -- Final Project Presentations
+
+- 1 -- [Pixels](weeks/01_pixels.md)
+- 2 -- [Pixels](weeks/02_pixels.md)
+- 3 -- [Sound](weeks/03_sound.md)
+- 4 -- [Sound](weeks/04_sound.md)
+- 5 -- [Text](weeks/05_text.md)
+- 6 -- [Data](weeks/06_data.md)
+- 7 -- Final Project Presentations
 
 ## Section Info
-* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework]
-* 02 [Luisa](sections/02_Luisa.md) | [Homework]
-* 03 [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
-* 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
-* 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
-* 06 [Lisa](sections/06_Lisa.md) | [Homework]
-* 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Media/wiki/Homework-Ellen)
+
+- 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-John-Henry)
+- 02 [Luisa](sections/02_Luisa.md) | [Homework]
+- 03 [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
+- 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
+- 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
+- 06 [Lisa](sections/06_Lisa.md) | [Homework]
+- 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Media/wiki/Homework-Ellen)
 
 ## Questions and Discussion
+
 - Find us on Discord under Help >> icm
 
 ## p5.js
-- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://alpha.editor.p5js.org/).
+
+- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding. We will start coding with the [web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## Extra Help
+
 - [Research Resident Office Hours](https://itp.nyu.edu/help/in-person-help/office-hours/)
 - ICM Help Sessions: TBD
 - [Coding Lab](https://itp.nyu.edu/help/in-person-help/coding-lab/) for drop-in help
 
 ## Inspiration
+
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2020-Code/wiki/Inspiration)
 
 # Policies
@@ -45,9 +53,10 @@ Although a considerable amount of the class material is available online, you sh
 ## Evaluation
 
 Grades will be determined according to the following breakdown:
-* Regular Assignments 40%
-* Participation and Attendance 40%
-* Final Project 20%
+
+- Regular Assignments 40%
+- Participation and Attendance 40%
+- Final Project 20%
 
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
@@ -65,11 +74,11 @@ Plagiarism is presenting someone else’s work as though it were your own. More 
 
 ## Statement of Principle
 
-The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members.  It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice.  Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
+The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
 
 ## Statement on Accessibility
 
-Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you.  Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you. Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
 
 ## Statement on Counseling and Wellness
 
@@ -77,10 +86,10 @@ Your health and safety are a priority at NYU. If you experience any health or me
 
 ## Statement on use of Electronic Devices
 
-Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
 
-Mantras By James
-----------------
+## Mantras By James
+
 - "Practice is the best of all instructors." - computation requires practice
 - "An agreeable companion on a journey is as good as a carriage." - look to your classmates for help too
 - "While we stop to think, we often miss our opportunity." - sometimes you need to take a leap of faith
@@ -88,8 +97,8 @@ Mantras By James
 - "The bow too tensely strung is easily broken." - don't get too stressed out
 - All of these are from Plubius Syrus. (42 B.C.)
 
-Previous Years
---------------
+## Previous Years
+
 - [2019](https://github.com/ITPNYU/ICM-2019-Code/)
 - [2018](https://github.com/ITPNYU/ICM-2018/)
 - [2017](https://github.com/ITPNYU/ICM-2017/)
