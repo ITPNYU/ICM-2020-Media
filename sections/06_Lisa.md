@@ -2,9 +2,9 @@
 
 * Lisa Jamhoury
 * Time: Fridays, 9AM-11:30AM EST
-* Location:
-* [Homework Wiki]()
-* [Office Hours]()
+* Location: Email lisa.jamhoury@nyu.edu for Zoom link
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2020-Media/wiki/Homework-Lisa)
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)
 
 ## Dates
 
