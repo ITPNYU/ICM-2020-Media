@@ -24,7 +24,8 @@ What can we express through algorithms?
 * [11.2: Video Photobooth / Muybridge Style Animation - video tutorial](https://youtu.be/oLiaUEKsRws?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
 
 ###  Code
-* [Code for above video tutorials](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js_video)
+* [Code for video tutorials in p5 editor](https://editor.p5js.org/jht1493/collections/XKr_AXpaT)
+* [Code for video tutorials on github](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js_video)
 * [Chapter 15 (images and pixels) from Learning Processing ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
 * [Chapter 16 (video) from Learning Processing ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
 
