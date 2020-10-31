@@ -4,6 +4,7 @@
 *Some of the videos in this section were created 2-3 years ago. They use different editors for p5.js. All of the concepts should still apply?*
 
 ### Reading
+* [Why Isn't the Sky Blue?](https://www.wnycstudios.org/podcasts/radiolab/segments/211213-sky-isnt-blue)
 * [Computational Color](http://printingcode.runemadsen.com/lecture-color/) (Don't worry about Rune.js example code.)
 * [Make your pictures beautiful with a touch of deep learning magic](https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032) v. [The Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa)
 * [Introduction to Neural Networks and Pixel Analysis](https://www.youtube.com/watch?v=aircAruvnKk) (20 minutes, but be prepared to spend an hour. Don't try to watch on 2x speed.)
