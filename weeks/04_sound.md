@@ -12,7 +12,7 @@
 
 ### Tutorials and Code
 #### Generating Pitch and Rhythm
-* [17.6: Sound Synthesis - video tutorial](https://youtu.be/Bk8rLzzSink?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) | [Code](https://editor.p5js.org/p5/sketches/S1xN4x1muQ)
+* [17.6: Sound Synthesis - video tutorial](https://youtu.be/Bk8rLzzSink?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) | [Code](https://editor.p5js.org/jht1493/sketches/PNuNz9dfX)
 * [Ear training interface](https://editor.p5js.org/icm4.0/sketches/ugARgFTL7)
 * [Sound Sample and Pitch](https://editor.p5js.org/icm4.0/sketches/mwnxfxQe5w)
 * [Melodies with Noisy Steps and Random Leaps](https://editor.p5js.org/icm4.0/sketches/n8dJlFNOB)| [noise()](https://p5js.org/reference/#/p5/noise) | [Tutorial](https://www.youtube.com/watch?v=Qf4dIN99e2w)
